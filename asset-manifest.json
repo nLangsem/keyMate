@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/keymate/static/css/main.45e05f63.css",
+    "main.js": "/keymate/static/js/main.6b3a60b4.js",
+    "index.html": "/keymate/index.html",
+    "main.45e05f63.css.map": "/keymate/static/css/main.45e05f63.css.map",
+    "main.6b3a60b4.js.map": "/keymate/static/js/main.6b3a60b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45e05f63.css",
+    "static/js/main.6b3a60b4.js"
+  ]
+}
