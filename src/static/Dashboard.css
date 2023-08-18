@@ -1,0 +1,24 @@
+.navbar .ml-auto {
+    margin-left: auto; /* Pushes the content to the right */
+  }
+  
+  /* ... Previous CSS styles ... */
+  
+  .dropdown-toggle {
+    margin-right: 15px; /* Add spacing between the dropdown and other elements */
+  }
+  
+  .password-input {
+    display: flex;
+    align-items: center;
+  }
+  
+  .password-field {
+    flex: 1;
+  }
+  
+  .password-toggle {
+    cursor: pointer;
+    margin-left: -30px; /* Adjust the value as needed */
+  }
+  
